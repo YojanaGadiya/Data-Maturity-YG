@@ -35,7 +35,7 @@ Reference Field	A reference field is a field that represents a relationship betw
 Reporting Guideline	A reporting guideline is a document, usually available as unstructured text, outlining annotation requirements in a specific domain for the purpose of data archiving, exchange and reporting.	MIACA	Phillipe		
 Resolvable Identifier	A resolvable identifier is one that enables a system to locate the identified resource, or some information about it, such as metadata or a service related to it, elsewhere in the network.		Yojana	Linked Content Collation (http://www.linkedcontentcoalition.org/index.php/rights-data-network/10-targets/71-04-resolvable-ids)	
 Semantic Data Model	Semantic data model is a type of data model where all entities (classes and relations) are either defined as an ontology using formal semantics (ie the semantic data model is an ontology) or where all entities and relations between entities have been mapped to one or more ontologies.	PROV-O,EXPO	Phillipe		
-Standard Generic Dataset Descriptor Model	This is a test.				
+Standard Generic Dataset Descriptor Model					
 Structured Dataset	A structured dataset is a information object which is represented according to some principled ways, thus adding contraints and structure to information representation.		Phillipe		
 Study design	Study designs are the set of methods and procedures used to collect and analyze data in a study.		Yojana	https://s4be.cochrane.org/blog/2021/04/06/an-introduction-to-different-types-of-study-design/	
 Term Metadata	An ontology term metadata is any descriptor used to describe an entity in a ontology (or a concept in a SKOS vocabulary).	description,identifier,editor_note,synonym	Phillipe		
