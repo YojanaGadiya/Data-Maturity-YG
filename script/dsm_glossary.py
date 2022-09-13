@@ -4,7 +4,7 @@ import pandas as pd
 def create_md():
     """Method to automatically create glossary file for website."""
     glossary_file = pd.read_csv(
-        '../docs/glossary.tsv', sep='\t', usecols=['TERM', 'DESCRIPTION']
+        'docs/glossary.tsv', sep='\t', usecols=['TERM', 'DESCRIPTION']
     )
 
     """Process to create template markdown"""
@@ -30,7 +30,7 @@ nav_order: 4
         else:
             template += ' \n'
 
-    with open('../docs/Glossary.md', 'w') as f:
+    with open('docs/Glossary.md', 'w') as f:
         print(template, file=f)
 
 
